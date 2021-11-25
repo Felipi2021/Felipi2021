@@ -1,7 +1,8 @@
+Pl/Eng
+16 Years old
 - 👋 Hi, I’m @Felipi2021
-- 👀 I’m interested in HTML, CSS, PHP, JS 
+- 👀 I’m interested in HTML, CSS, PHP, JS - well known as website programming
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me You can send me a message on my email acc
 
 <!---
